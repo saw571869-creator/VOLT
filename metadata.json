@@ -1,0 +1,6 @@
+{
+  "name": "Orange Screen",
+  "description": "A beautiful custom energy drink with interactive feedback profiles, ratings, synthesized chime sounds, dark mode, and precise bilingual translation support.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
